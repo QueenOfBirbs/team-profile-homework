@@ -1,11 +1,15 @@
 # team-profile-homework
 
 ---USER STORY---
+
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 
+
+
 ---ACCEPTANCE CRITERIA---
+
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for my team members and their information
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input
@@ -24,7 +28,10 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
+
+
 ---NOTES---
+
 So I got super confused on this one tbh.
 We've worked on many aspects of this kinda stuff but done different ways so I wasn't really sure what the correct method was.
 Or how to combine said learned concepts together so it would do what it was asked.
