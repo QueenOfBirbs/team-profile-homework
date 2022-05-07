@@ -33,6 +33,6 @@ THEN I exit the application, and the HTML is generated
 ---NOTES---
 I FIGURED IT OUT!! i think i was just in a funk that week a my brain wasn't processing it correctly.
 photos of the hw are in the finished folder
-link to video of demo: https://drive.google.com/file/d/1Kl2M0k12Ln84u_jB-h1K_-EIRfEVx83S/view?usp=sharing
-i messed around with the save options so there's also a version of the demo in finished
+link to video of demo: https://drive.google.com/file/d/1kCYx4nvaGmYEy2LHGPoxiw9VKj-3pMKL/view?usp=sharing
+i messed around with the save options so this is a differen save version than last hw that needed a demo
 please tell me what you think and if one is more clear than the other!
