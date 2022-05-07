@@ -31,10 +31,7 @@ THEN I exit the application, and the HTML is generated
 
 
 ---NOTES---
-
-So I got super confused on this one tbh.
-We've worked on many aspects of this kinda stuff but done different ways so I wasn't really sure what the correct method was.
-Or how to combine said learned concepts together so it would do what it was asked.
-I messed around with it for a bit but I wasn't sure if I was allowed to add files or just work with the given ones?
-Which just made everything even more confusing since it didn't have some require files for a method.
-So yeah, there's not much in here lol. I'm definitely gonna study more on this stuff.
+I FIGURED IT OUT!! i think i was just in a funk that week a my brain wasn't processing it correctly.
+photos of the hw are in the finished folder
+link to video of demo: https://drive.google.com/file/d/1Kl2M0k12Ln84u_jB-h1K_-EIRfEVx83S/view?usp=sharing
+i'm not sure why the video thing i'm using makes the file so big? i'm gonna tinker with but hopefully it's atleast clear?
