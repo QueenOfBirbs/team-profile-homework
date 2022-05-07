@@ -34,4 +34,5 @@ THEN I exit the application, and the HTML is generated
 I FIGURED IT OUT!! i think i was just in a funk that week a my brain wasn't processing it correctly.
 photos of the hw are in the finished folder
 link to video of demo: https://drive.google.com/file/d/1Kl2M0k12Ln84u_jB-h1K_-EIRfEVx83S/view?usp=sharing
-i'm not sure why the video thing i'm using makes the file so big? i'm gonna tinker with but hopefully it's atleast clear?
+i messed around with the save options so there's also a version of the demo in finished
+please tell me what you think and if one is more clear than the other!
